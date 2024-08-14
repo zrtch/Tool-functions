@@ -32,7 +32,8 @@
     "sourceMap": true,
     "strict": true,
     "target": "ES5",
-    "typeRoots": ["node_modules/@types", "typings"]
+    "typeRoots": ["node_modules/@types", "typings"],
+    "types": ["@types/jest"]
   },
-  "exclude": ["dist", "node_modules", "rollup.config.js"]
+  "exclude": ["dist", "node_modules", "rollup.config.js", "jest.config.js"]
 }
