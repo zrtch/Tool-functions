@@ -1,0 +1,9 @@
+{
+  "name": "ch-rt",
+  "version": "1.0.0",
+  "description": "A Web/Node General Util Set",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
